@@ -28,7 +28,7 @@ https://youtu.be/vBAtwKPeQRE
 ## Screenshots
 1] Landing Page
 
-![App Screenshot](https://raw.githubusercontent.com/DigambarBC/image-hosting/main/landing%20page.png)
+![App Screenshot](https://snz04pap001files.storage.live.com/y4mcbB45J1Cfo_gbycBtEd1ROyyiBkCcvGtauG4jEl73Im7MNK0YUN8mOq0D7_QYSIdmvB24I1dlv5aC7N9GA3QAVuknEy-tGJbXaJhKK6wt0PzGK8HGPqOX7jRbannujpzmiiKXpA9O3ETaUWm9fPWDjSHMLx23WrYGhCER4WljnObUl3BpPaJdFVgFEFbl_1yI3vxb6tROZKhX89pXH_xIRpcK7wQ4x1Sveerp3NGMRU?encodeFailures=1&width=1280&height=641)
 
 2] Login Page
 
