@@ -24,7 +24,7 @@ https://skybnk.000webhostapp.com
             
             OR 
 Watch video on YouTube 👇   
-https://youtu.be/9OP36wzL4tE
+https://youtu.be/vBAtwKPeQRE
 ## Screenshots
 1] Landing Page
 
@@ -110,4 +110,3 @@ After Xampp download install it in your pc
 
 ### This is a demo of the project. Some features are removed from project you need to purchase the source code. I will provide you source code at an affordable price. 
 #### View Project Price 👇
-https://skytech4u.github.io/skytech/
