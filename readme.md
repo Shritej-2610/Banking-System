@@ -32,7 +32,7 @@ https://youtu.be/vBAtwKPeQRE
 
 2] Login Page
 
-![App Screenshot](https://snz04pap001files.storage.live.com/y4poriucbv-KYbHTZoPnSe1dKiHB8zGkHohwiUYMPEfsGvCwUiutwklQM4RXA8GwYfpmR2-qIsRvpeYifO-I7GFILdJiI9mS5x9u1Ko8FdQ3uDgniIncaEm7Atbx47fnuFzQhDyOVph4si074bIS9cLiDOxqYP_uXcMIL-nncASPUyC01H3tXrn-KA4gsj1PznZNwlpXrGYjfiplJFftJc_MwN6BTXbplCsDzInVVQKDlE/Screenshot%202022-07-11%20000015.jpg?psid=1&width=1830&height=913)
+![App Screenshot](https://1drv.ms/u/s!Alwh-uNOr02-6CCWzfUuEKZ9dD7P)
 
 3] User Dashboard
 
