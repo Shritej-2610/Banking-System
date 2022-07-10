@@ -32,7 +32,7 @@ https://youtu.be/vBAtwKPeQRE
 
 2] Login Page
 
-![App Screenshot](blob:https://onedrive.live.com/f173ec92-3f41-4239-8b42-789ec83ba817)
+![App Screenshot](https://onedrive.live.com/f173ec92-3f41-4239-8b42-789ec83ba817)
 
 3] User Dashboard
 
