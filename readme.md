@@ -20,7 +20,7 @@ In this project i have develop real world net-banking project. This project is a
 
 View live demo of project 👇
 
-https://skybnk.000webhostapp.com  
+https://swissbnk.000webhostapp.com  
             
             OR 
 Watch video on YouTube 👇   
@@ -34,10 +34,6 @@ https://youtu.be/vBAtwKPeQRE
 
 Install project with git
 
-```bash
-  https://github.com/skytech4u/Netbanking-System-in-PHP.git
-  cd NetBanking-System-in-PHP
-```
 ## Steps to run Project 
 
 ### Xampp Installation
@@ -59,10 +55,7 @@ After Xampp download install it in your pc
     define("EMAIL", "");  
     define("PASSWORD", "");
 
-    #### After Edit
-    define("EMAIL", "skytechcreators@gmail.com");  
-    define("PASSWORD", "asdfghjklpoiu");
-   
+  
    
 
 5. Now Save File
@@ -80,7 +73,7 @@ After Xampp download install it in your pc
     8] refer this tutorial (https://youtu.be/7WUw9J3Xs8Q)  
 
 
-7. now start project with this link (http://localhost/SkyBank/)  
+7. now start project with this link (http://localhost/Netbanking-System-in-PHP-main/index.php)  
 8. Create Account  
 9. To Make Admin Account follow the step given Below  
 
