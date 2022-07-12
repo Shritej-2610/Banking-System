@@ -32,7 +32,7 @@ https://youtu.be/vBAtwKPeQRE
 
 2] Login Page
 
-![App Screenshot](https://1drv.ms/u/s!Alwh-uNOr02-6CCWzfUuEKZ9dD7P)
+![App Screenshot](https://1drv.ms/u/s!Alwh-uNOr02-6CEYR9RkLcd2ESJy)
 
 3] User Dashboard
 
