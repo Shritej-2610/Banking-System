@@ -30,15 +30,7 @@ https://youtu.be/vBAtwKPeQRE
 
 ![App Screenshot](https://snz04pap001files.storage.live.com/y4mcbB45J1Cfo_gbycBtEd1ROyyiBkCcvGtauG4jEl73Im7MNK0YUN8mOq0D7_QYSIdmvB24I1dlv5aC7N9GA3QAVuknEy-tGJbXaJhKK6wt0PzGK8HGPqOX7jRbannujpzmiiKXpA9O3ETaUWm9fPWDjSHMLx23WrYGhCER4WljnObUl3BpPaJdFVgFEFbl_1yI3vxb6tROZKhX89pXH_xIRpcK7wQ4x1Sveerp3NGMRU?encodeFailures=1&width=1280&height=641)
 
-2] Login Page
 
-![App Screenshot](https://snz04pap001files.storage.live.com/y4plljitO_KE0UxmM_m0ZasUAgY_W8JekPIzlC5HCWL2oFU4U1iO0mz5hxUyToPtrfthTGjr-X94iXO3CPdWhoTJH4WEgCUvwJUxd2mgPmCbeQmCQHuh0y7JNhjFOh1UtsM__E6k1aq8DrcANwqrsb_6caj5S1xCrgziNT0SELxu6dYcq9add8L2_-ZCc5R-iWgj0viu6z_4a6-lP1yimUx3evTiuSPRQO7oDOw_G7UmO4/Screenshot%202022-07-12%20225204.jpg?psid=1&width=1920&height=881)
-
-3] User Dashboard
-
-![App Screenshot](https://snz04pap001files.storage.live.com/y4plljitO_KE0UxmM_m0ZasUAgY_W8JekPIzlC5HCWL2oFU4U1iO0mz5hxUyToPtrfthTGjr-X94iXO3CPdWhoTJH4WEgCUvwJUxd2mgPmCbeQmCQHuh0y7JNhjFOh1UtsM__E6k1aq8DrcANwqrsb_6caj5S1xCrgziNT0SELxu6dYcq9add8L2_-ZCc5R-iWgj0viu6z_4a6-lP1yimUx3evTiuSPRQO7oDOw_G7UmO4/Screenshot%202022-07-12%20225204.jpg?psid=1&width=1920&height=881)
-
-## Installation
 
 Install project with git
 
