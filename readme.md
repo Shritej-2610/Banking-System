@@ -36,7 +36,7 @@ https://youtu.be/vBAtwKPeQRE
 
 3] User Dashboard
 
-![App Screenshot](https://raw.githubusercontent.com/DigambarBC/image-hosting/main/php_bank_userdash.png)
+![App Screenshot](https://snz04pap001files.storage.live.com/y4plljitO_KE0UxmM_m0ZasUAgY_W8JekPIzlC5HCWL2oFU4U1iO0mz5hxUyToPtrfthTGjr-X94iXO3CPdWhoTJH4WEgCUvwJUxd2mgPmCbeQmCQHuh0y7JNhjFOh1UtsM__E6k1aq8DrcANwqrsb_6caj5S1xCrgziNT0SELxu6dYcq9add8L2_-ZCc5R-iWgj0viu6z_4a6-lP1yimUx3evTiuSPRQO7oDOw_G7UmO4/Screenshot%202022-07-12%20225204.jpg?psid=1&width=1920&height=881)
 
 ## Installation
 
