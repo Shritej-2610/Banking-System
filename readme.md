@@ -49,9 +49,9 @@ https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.2.33/xampp-window
 After Xampp download install it in your pc
 
 ### Code Edit Steps  
-1. Copy SkyBank Project Folder And Paste in htdocs folder (htdocs found in xampp Setup)  
-2. Open SkyBank Folder With VScode or other editor   
-3. Create app password in google and copy it (follow the video tutorial -> how to make app password [video link -> https://youtu.be/J4CtP1MBtOE] )  
+1. Copy SwissBank Project Folder And Paste in htdocs folder (htdocs found in xampp Setup)  
+2. Open SwissBank Folder With VScode or other editor   
+3. Create app password in google and copy it (follow the video tutorial -> how to make app password [video link ->(https://youtu.be/vBAtwKPeQRE)] )  
 4. Now Open config.php file which is in root directory     
     Then Add Your Email and App Password in double quotes
     Example 👇
